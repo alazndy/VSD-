@@ -1,0 +1,6 @@
+{
+  "name": "Brigade Virtual Calibration Engine",
+  "description": "Virtual Calibration and Simulation software for Brigade BN360-300 and VBV-1000-AI surround-view camera systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
